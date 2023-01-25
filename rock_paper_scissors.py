@@ -1,3 +1,5 @@
+#short code to play rock paper and scissors game
+
 import random
 
 def play():
